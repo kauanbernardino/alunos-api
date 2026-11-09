@@ -1,6 +1,6 @@
 # API Escola (C# / ASP.NET Core)
 
-API REST em C# para cadastro de alunos e disciplinas, com registro e login de usuários usando JWT. Serve o front-end React do repositório [apicrud](https://github.com/kauanbernardino/apicrud).
+API REST em C# para cadastro de alunos e disciplinas, com registro e login de usuários usando JWT. Serve o front-end React do repositório [alunos-frontend](https://github.com/kauanbernardino/alunos-frontend).
 
 ## Funcionalidades
 
@@ -30,8 +30,8 @@ C# · .NET 8 · ASP.NET Core · Entity Framework Core · SQLite · JWT · BCrypt
 Pré-requisito: .NET SDK 8.
 
 ```bash
-git clone https://github.com/kauanbernardino/WebApplication2.git
-cd WebApplication2
+git clone https://github.com/kauanbernardino/alunos-api.git
+cd alunos-api
 dotnet run
 ```
 
